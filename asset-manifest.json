@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-react-app/static/css/main.63c79b32.css",
+    "main.js": "/word-react-app/static/js/main.3c9059eb.js",
+    "static/js/453.2c84d2e2.chunk.js": "/word-react-app/static/js/453.2c84d2e2.chunk.js",
+    "index.html": "/word-react-app/index.html",
+    "main.63c79b32.css.map": "/word-react-app/static/css/main.63c79b32.css.map",
+    "main.3c9059eb.js.map": "/word-react-app/static/js/main.3c9059eb.js.map",
+    "453.2c84d2e2.chunk.js.map": "/word-react-app/static/js/453.2c84d2e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c79b32.css",
+    "static/js/main.3c9059eb.js"
+  ]
+}
